@@ -73,9 +73,5 @@ void keyPressed() {
   if (keyCode == ENTER)
     if (isIntroActive) {
       changeState = true;
-      print(changeState);
-
-    }
-  
-  
+    } 
 }

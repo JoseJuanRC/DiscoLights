@@ -26,6 +26,7 @@ Este proyecto tiene como objetivo probar el uso de las luces con processing. Ade
 ###### Cámara
 - Se encuentra a la altura 100
 - Se impide que atraviese los muros y salga de la habitación
+- Se ha utilizado la biblioteca queasycam en la aplicación
 
 ###### Bola
 - Desde la bola se emitirán todas las luces cuando se haga click con el ratón
@@ -43,5 +44,6 @@ A continuación se ve un ejemplo de la aplicación:
 - [Editar el readme.md](https://dillinger.io/)
 - [Processing](https://processing.org/)
 - [Modelos](https://www.turbosquid.com/es/)
+- [queasycam](https://github.com/jrc03c/queasycam)
 
 Realizado por [José Juan Reyes Cabrera](https://github.com/JoseJuanRC)
